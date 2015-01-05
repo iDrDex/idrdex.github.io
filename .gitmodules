@@ -1,0 +1,9 @@
+[submodule "DengueBiomarkers/reveal.js"]
+	path = DengueBiomarkers/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "STAR_Berkeley/reveal.js"]
+	path = STAR_Berkeley/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
+[submodule "STAR_Butte_Lab/reveal.js"]
+	path = STAR_Butte_Lab/reveal.js
+	url = https://github.com/hakimel/reveal.js.git
