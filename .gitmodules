@@ -7,3 +7,6 @@
 [submodule "STAR_Butte_Lab/reveal.js"]
 	path = STAR_Butte_Lab/reveal.js
 	url = https://github.com/hakimel/reveal.js.git
+[submodule "STAR_Network/reveal.js"]
+	path = STAR_Network/reveal.js
+	url = https://github.com/hakimel/reveal.js.git

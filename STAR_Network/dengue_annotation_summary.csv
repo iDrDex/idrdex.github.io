@@ -1,0 +1,22 @@
+GSE,GPL,caseQueries,controlQueries,sample_class,Convalescent,Early_Acute,Late_Acute,Later,Unknown
+GSE13052,GPL2700,DSS,uncomplicated dengue,0.0,6.0,,9.0,,
+GSE13052,GPL2700,DSS,uncomplicated dengue,1.0,6.0,,9.0,,
+GSE17924,GPL4133,DSS|DHF,DF,0.0,,2.0,14.0,,
+GSE17924,GPL4133,DSS|DHF,DF,1.0,,1.0,31.0,,
+GSE18090,GPL570,DHF,DF,-1.0,,1.0,7.0,,
+GSE18090,GPL570,DHF,DF,0.0,,2.0,6.0,,
+GSE18090,GPL570,DHF,DF,1.0,,1.0,9.0,,
+GSE25001,GPL6104,dengue shock syndrome,uncomplicated dengue,0.0,16.0,39.0,50.0,30.0,
+GSE25001,GPL6104,dengue shock syndrome,uncomplicated dengue,1.0,18.0,18.0,19.0,19.0,
+GSE25226,GPL5621,dengue shock syndrome|dengue hemorrhagic fever,dengue fever,-1.0,6.0,,4.0,,
+GSE25226,GPL5621,dengue shock syndrome|dengue hemorrhagic fever,dengue fever,0.0,,,20.0,,
+GSE25226,GPL5621,dengue shock syndrome|dengue hemorrhagic fever,dengue fever,1.0,,,14.0,,
+GSE38246,GPL15615,DSS|DHF,DF,0.0,,11.0,39.0,2.0,1.0
+GSE38246,GPL15615,DSS|DHF,DF,1.0,,9.0,36.0,4.0,3.0
+GSE40628,GPL16021,WHO stage 3|WHO stage 4,WHO stage 1|WHO stage 2,-1.0,,,4.0,3.0,
+GSE40628,GPL16021,WHO stage 3|WHO stage 4,WHO stage 1|WHO stage 2,0.0,,1.0,5.0,4.0,
+GSE40628,GPL16021,WHO stage 3|WHO stage 4,WHO stage 1|WHO stage 2,1.0,,,7.0,6.0,
+GSE43777,GPL201,DHF,DF,0.0,45.0,46.0,68.0,,
+GSE43777,GPL201,DHF,DF,1.0,3.0,1.0,5.0,,
+GSE43777,GPL570,DHF,DF,0.0,12.0,15.0,25.0,,
+GSE43777,GPL570,DHF,DF,1.0,12.0,11.0,26.0,,
